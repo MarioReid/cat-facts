@@ -1,23 +1,26 @@
 h1 {
-    font-size: 28px;
-    margin:center;
-    background-color: blue;
-    text-align: center;
-    padding-top: 10%;
-    padding-bottom: 10%''
+    font-size: 60px;
 }
 
+h2{
+    font-size: 48px;
+}
+
+h3 {font-size: 36px;
+}
 
 p {
-    margin: 
+    font-size:18px;
 }
 
+header {
+    width: 100%;
+    background: aqua;
+}
 
-h2 {
-    font-size: 28px;
-    margin:center;
-    background-color: blue;
+header {
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: darkgrey;
     text-align: center;
-    padding-top: 10%;
-    padding-bottom: 
 }
